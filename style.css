@@ -4,18 +4,19 @@ body
     background-image: url(images/image3.jpg);
 }
 
-#section1 
+
+h1
 {
     background-color: red;
 
 }
 
-#section2 
+nav
 {
     background-color: green;
 }
 
-#section3
+footer
 {
     background-color: yellow;
 }
